@@ -75,7 +75,7 @@ export default function Home() {
           </h1>
           <p className="text-2xl text-purple-700 font-semibold">{greeting} — Welcome to my portfolio!</p>
           <p className="mt-6 text-xl text-purple-700 max-w-xl mx-auto tracking-wide">
-            I’m a passionate full-stack developer and designer based in Toronto. I love turning ideas into interactive, beautiful, and user-friendly digital experiences.
+            I’m a passionate full-stack developer and designer based in Ottawa. I love turning ideas into interactive, beautiful, and user-friendly digital experiences.
           </p>
         </section>
 
