@@ -62,6 +62,10 @@ html {
   }
 }
 
-.animate-slideFadeIn {
-  animation: slideFadeIn 0.8s ease forwards;
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: transparent; /* leave bg on html */
 }
