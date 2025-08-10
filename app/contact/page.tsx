@@ -48,7 +48,7 @@ export default function Contact() {
         </form>
       ) : (
         <p className="thank-you-message">
-          💌 Thanks for reaching out, {form.name}! I’ll get back to you soon.
+          💌 Thanks for reaching out, {form.name}! I&apos;ll get back to you soon.
         </p>
       )}
 
@@ -94,7 +94,7 @@ export default function Contact() {
         .contact-form button {
           padding: 0.75rem 1.5rem;
           font-size: 1rem;
-          background-color:white;
+          background-color: white;
           color: #3a0ca3;
           border: none;
           border-radius: 8px;

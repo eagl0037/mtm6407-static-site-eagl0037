@@ -4,7 +4,7 @@ export default function About() {
       <section>
         <h1>About Me</h1>
         <p>
-          Hi, I’m Natasha Eagles, a passionate full-stack developer dedicated to crafting
+          Hi, I&apos;m Natasha Eagles, a passionate full-stack developer dedicated to crafting
           clean, responsive, and accessible websites. My journey began with curiosity
           and quickly grew into a career focused on delivering exceptional user experiences.
         </p>
